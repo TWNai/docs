@@ -1,4 +1,4 @@
----
+---5c15069c-c372-48de-bec1-74b7ce0e5b67
 title: Getting started with GitHub
 shortTitle: Get started
 intro: 'Learn how to start building, shipping, and maintaining software with {% data variables.product.prodname_dotcom %}. Explore our products, sign up for an account, and connect with the world''s largest development community.'
@@ -51,5 +51,6 @@ children:
   - /exploring-projects-on-github
   - /getting-started-with-git
   - /using-git
----
+
+5c15069c-c372-48de-bec1-74b7ce0e5b67
 
